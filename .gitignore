@@ -1,0 +1,30 @@
+# Project exclude paths
+/.gradle/
+/Problems/Amount on account/build/
+/Problems/Amount on account/out/
+/Problems/Amount on account/out/production/classes/
+/Problems/From 0 to 9/build/
+/Problems/From 0 to 9/out/
+/Problems/From 0 to 9/out/production/classes/
+/Problems/Hello, Kotlin/build/
+/Problems/Hello, Kotlin/out/
+/Problems/Hello, Kotlin/out/production/classes/
+/Problems/I like Kotlin/build/
+/Problems/I like Kotlin/out/
+/Problems/I like Kotlin/out/production/classes/
+/Problems/The eternal truth/build/
+/Problems/The eternal truth/out/
+/Problems/The eternal truth/out/production/classes/
+/Problems/The result of a game in Tic-Tac-Toe/build/
+/Problems/The result of a game in Tic-Tac-Toe/out/
+/Problems/The result of a game in Tic-Tac-Toe/out/production/classes/
+/Problems/We need to learn Kotlin/build/
+/Problems/We need to learn Kotlin/out/
+/Problems/We need to learn Kotlin/out/production/classes/
+/Problems/Your name/build/
+/Problems/Your name/out/
+/Problems/Your name/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Simple Chatty Bot/task/out/test/classes/
